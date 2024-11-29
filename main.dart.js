@@ -81683,7 +81683,7 @@ A.a1G.prototype={
 $3(a,b,c){var s,r=null,q=A.ar1(A.aO())
 q=A.rO(B.Ae,B.ah,new A.kU(r,r,r,r,4,r,new A.bv(A.d_(12),B.l)),B.hs,r,q)
 s=A.rO(B.Ac,B.at,new A.kU(r,r,r,r,4,r,new A.bv(A.d_(12),B.l)),B.hs,r,r)
-return new A.nJ(A.ak7(new A.a1D(),t.W0),A.ax(["/login",new A.a1E(),"/dashboard",new A.a1F()],t.N,t.Ab),"Modern POS",q,s,B.Va,!1,r)},
+return new A.nJ(A.ak7(new A.a1D(),t.W0),A.ax(["/login",new A.a1E(),"/dashboard",new A.a1F()],t.N,t.Ab),"POS",q,s,B.Va,!1,r)},
 $C:"$3",
 $R:3,
 $S:463}
