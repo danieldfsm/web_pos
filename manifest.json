@@ -1,6 +1,6 @@
 {
-    "name": "pos_valtown",
-    "short_name": "pos_valtown",
+    "name": "pos_app",
+    "short_name": "pos_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
